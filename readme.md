@@ -8,7 +8,7 @@
 - Opens ox_lib menu, with multiple choices if you have the given gang role (change in config).
 
 If you have any ideas to, what other changes or tweaks i should add, send me an message on discord.
-# [my discord](discordapp.com/users/Relmyab)
+# Relmyab
 
 # [fsg_selldrugs](https://github.com/fsgdev/fsg_selldrugs)
 ### This is stasiek_selldrugsv2 but with added features such as:
