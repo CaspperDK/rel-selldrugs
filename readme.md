@@ -1,5 +1,5 @@
 ### This README is taken from fsg_selldrugs, link to script below
-# [rel-selldrugs]()
+# [rel-selldrugs](https://github.com/CaspperDK/rel-selldrugs)
 
 
 # [fsg_selldrugs](https://github.com/fsgdev/fsg_selldrugs)
