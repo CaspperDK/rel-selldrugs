@@ -1,6 +1,10 @@
 ### This README is taken from fsg_selldrugs, link to script below
 # [rel-selldrugs](https://github.com/CaspperDK/rel-selldrugs)
 
+### This is fsg_selldrugs but edited to only supporting QBCore, but added features such as:
+- ox_lib integration
+- different interaction with npc (style wise)
+- made it possible to make gangs sell other products than normal players.
 
 # [fsg_selldrugs](https://github.com/fsgdev/fsg_selldrugs)
 ### This is stasiek_selldrugsv2 but with added features such as:
